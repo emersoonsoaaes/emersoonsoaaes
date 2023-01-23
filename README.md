@@ -16,7 +16,7 @@
 <br>
 
 
-### Tecnologias que eu estou usando e aprendendo no meu dia a dia
+### Tecnologias que eu estou aprendendo e utilizando no meu dia a dia
 
 <div style="diplay: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
