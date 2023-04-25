@@ -9,7 +9,6 @@
 <br>
 <div>
 <a href="https://github.com/emersoonsoaaes">
-username=emersoonsoaaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
